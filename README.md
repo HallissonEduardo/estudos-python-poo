@@ -1,2 +1,2 @@
 # Estudos_Python_POO
-Repositório de exercícios práticos desenvolvidos para reforçar os conceitos de Programação Orientada a Objetos (POO) em Python, abordando classes, objetos, atributos, métodos, herança, polimorfismo e boas práticas de programação.
+Repositório dedicado ao estudo e prática de Programação Orientada a Objetos (POO) em Python. Contém uma série de exercícios progressivos focados em conceitos fundamentais, incluindo Herança, Polimorfismo, Encapsulamento, Métodos Mágicos e Classes Abstratas.
