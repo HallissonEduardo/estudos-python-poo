@@ -63,7 +63,7 @@ class Veiculo:
             print('O  MOTOR ESTA DESLIGADO')
 
     # Método que mostra as especificações do veiculo
-    def mostrar_especificações(self):
+    def mostrar_especificacoes(self):
         print(f'Marca: {self.marca}, Modelo: {self.modelo}, Cor: {self.cor}')
 
 
