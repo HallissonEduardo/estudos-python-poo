@@ -1,6 +1,6 @@
 
 """
-Desafio 6: O Contador de Funcionários (Variáveis de Classe)
+ O Contador de Funcionários (Variáveis de Classe)
 Até agora, os atributos pertenciam a cada cópia (instância) do objeto.
 Mas e se a própria classe precisar guardar uma informação compartilhada por todos?
 """
