@@ -40,7 +40,6 @@ O repositório contém 16 exercícios progressivos. Abaixo está o índice detal
 
 - **Herança Múltipla** - Criação de um `SuperHeroi` que herda simultaneamente as habilidades das classes `Nadador` e `Voador`.
 
-- **Design Pattern MVC** - Construção de um Gerenciador de Tarefas completo e estruturado separando dados (Model), interface (View) e lógica (Controller).
 
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
