@@ -8,7 +8,9 @@ from view import TarefaView
 class TarefaController:
 
     """
-Classe TarefaController responsavel por processar os dados, e fazer a ligação entre Model e View.
+       Classe responsável por mediar a troca de informações entre o TarefaModel e a TarefaView. 
+      Atua como o orquestrador do sistema, sendo a única camada que conhece e conecta 
+    as demais partes da aplicação.
     """
 
     def __init__(self):

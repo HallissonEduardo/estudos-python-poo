@@ -1,4 +1,25 @@
 
+ 
+"""
+Gerenciador de Tarefas - Padrão MVC em Python.
+
+Este projeto foi desenvolvido para praticar conceitos de Programação Orientada 
+a Objetos (POO) e explorar a separação de responsabilidades.
+
+Estrutura da Arquitetura:
+- Model: Gerencia os dados e as regras de negócio.
+- View: Lida com a exibição de dados e a interação com o usuário.
+- Controller: Atua como intermediário e orquestra a aplicação.
+
+Nota de Arquitetura: O Controller conhece e interage com a View e o Model, 
+mas Model e View são totalmente independentes e não sabem da existência um do outro.
+
+No repositorio gerenciador-tarefas-mvc  pode ser visto o  desenvolvinento para me aprofundar mais no projeto. 
+
+"""
+
+
+
 from controller import TarefaController
 
 

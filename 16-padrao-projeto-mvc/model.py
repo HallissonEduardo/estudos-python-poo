@@ -5,8 +5,8 @@ from view import TarefaView
 class TarefaModel:
 
     """
-Essa é a classe do TarefaModel, tem o objetivo e apenas armazenar os dados fornecidos na classe TarefaView;
-e passados pela classe TarefaController.
+      Classe TarefaModel: responsável por armazenar, carregar e salvar 
+    os dados das tarefas  
     """
 
     def __init__(self):

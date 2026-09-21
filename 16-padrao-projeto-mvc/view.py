@@ -7,7 +7,9 @@ from controller import TarefaController
 class TarefaView:
 
     """
-Essa classe é a TarefaView e responsavel exclusivamente por mostra informacoes processadas pelo Controlller,
+       Classe responsável exclusivamente pela interação com o usuário (CLI).
+    Exibe os menus e captura as escolhas do usuário de forma totalmente isolada, 
+    sem conhecimento da existência do TarefaModel ou do TarefaController.
     """
 
     def __init__(self):
