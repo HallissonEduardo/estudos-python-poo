@@ -1,7 +1,7 @@
 from controller import TarefaController
 
 
-# INICIANDO VIEW--------------------------------------------------------------------
+
 
 
 class TarefaView:
@@ -60,4 +60,3 @@ class TarefaView:
             for concluida in concluidas:
                 print(concluida)
 
-# FINALIZANDO VIEW------------------------------------------------------------------------

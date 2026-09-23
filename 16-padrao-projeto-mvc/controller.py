@@ -3,7 +3,7 @@ from view import TarefaView
 
 
 
-# INICIANDO CONTROLLER ------------------------------------------------------------
+
 
 class TarefaController:
 

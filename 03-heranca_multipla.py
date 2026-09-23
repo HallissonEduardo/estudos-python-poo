@@ -27,7 +27,7 @@ Instancie o super-herói e chame os dois métodos para provar que ele herdou amb
 
 class Voador:
 
-# Criamos métodos contrutor com dois atributos que serão herdados da classe filha.
+# Criei métodos contrutor com dois atributos que serão herdados da classe filha.
 # A baixo temos dois métodos para herança da classe filha.
 
     def __init__(self):

@@ -1,7 +1,7 @@
 from view import TarefaView
 
 
-# INICIANDO MODEL--------------------------------------------------------------------------------------------------
+
 class TarefaModel:
 
     """
@@ -42,6 +42,3 @@ class TarefaModel:
         }
 
          return dados # RETORNA OS DADOS DAS DUAS LISTAS SALVAS EM UM DICIONARIO.
-
-
-# Finalizando Model--------------------------------------------------
