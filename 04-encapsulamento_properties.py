@@ -25,7 +25,7 @@ class Termostato:
             self._temperatura = nov_temp
 
 
-#  Criando sem o metodo property-----------------------------
+
 
 
 class Term:

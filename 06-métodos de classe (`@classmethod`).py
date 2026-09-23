@@ -13,7 +13,7 @@ O porquê: Isso evita que o desenvolvedor que usa sua classe precise tratar a st
 A própria classe ensina como se construir a partir de um texto.
 """
 
-#---------------------------------------------------------------------------------------------------------------------
+
 
 class Data:
 
@@ -50,7 +50,7 @@ class Data:
             print("Valor invalido")
             return None
 
-#------------------------------------------------------------------------------------------
+
 
 if __name__ == '__main__':
 
@@ -67,7 +67,7 @@ if __name__ == '__main__':
         print(f"Mês:{data.mes}")
         print(f"Ano:{data.ano}")
 
-#---------------------------------------------------------------------------------------------
+
 
 """
 Nesse projeto aplico fundamentos de Herança.

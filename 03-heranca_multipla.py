@@ -23,7 +23,6 @@ Instancie o super-herói e chame os dois métodos para provar que ele herdou amb
 """
 
 
-# Iniciando criação de class mãe.----------------------------------------------------------------------------------
 
 
 class Voador:
@@ -46,7 +45,6 @@ class Voador:
             self.altura = 0.0
 
 
-# Segunda class mãe.-------------------------------------------------------------------------------------
 
 
 class Nadador:
@@ -69,7 +67,7 @@ class Nadador:
             self.nadando = False
 
 
-# Classe Filha criada a partir de duas classs mãe.----------------------------------------------------
+
 
 
 class SuperHeroi(Voador, Nadador):
@@ -98,7 +96,7 @@ class SuperHeroi(Voador, Nadador):
             super().nadar(profundidade) # Atualizando atributos.
 
 
-# Execução do fluxo.----------------------------------------------------------------------------------
+
 
 
 if __name__ == '__main__':

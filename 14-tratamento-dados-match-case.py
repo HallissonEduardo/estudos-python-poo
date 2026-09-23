@@ -34,10 +34,8 @@ class Dia_rosa:
     print(rosa.criar_rosa())
 """
 
-# Desafio com get e setter ----------------------------------------------
 
 
-#-------------------------------------------------
 
 class Day_of_pink:
 
@@ -78,7 +76,7 @@ class Day_of_pink:
 
 
 
-# Validação usando case -------------------------------------------------------------
+
 
 
 class Day:
